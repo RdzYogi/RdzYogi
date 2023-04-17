@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdzyogi" alt="rdzyogi" /></a> </p>
 
-- 🌱 Passionate web developer
-
 - 📫 How to reach me **silviurosu1988@gmail.com**
 
 - Portfolio <a href="silviu.info" target="blank">silviu.info</a>
